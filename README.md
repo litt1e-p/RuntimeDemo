@@ -1,2 +1,2 @@
 # RuntimeDemo
-pratice demo
+practice demo
